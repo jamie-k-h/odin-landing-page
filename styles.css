@@ -8,13 +8,16 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    height: 40px;
+    width: auto;
 }
 
 .header-logo {
     font-size: 24px;
     color:#f9faf8;
     justify-content: center;
-    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .header-links{
@@ -22,7 +25,8 @@
     color: #e5e7eb;
     display: flex;
     justify-content: center;
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .top {
@@ -103,7 +107,9 @@ img {
     font-size: 36px;
     color: #1f2937;
     width: 100%;
-    height: 75px;
+    height: 150px;
+    text-align: center;
+    align-content: center;
 }
 
 .action-white{
